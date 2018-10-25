@@ -1,4 +1,12 @@
-    #include <stdio.h>
+/* 
+
+    *Binary search 
+    *Author:Adersh A
+    *roll no:2
+*/
+
+
+#include <stdio.h>
      
     int main()
     {

@@ -1,3 +1,11 @@
+/*
+ *Bubble sort
+ *Author:Adersh A
+ *Roll no:2
+*/ 
+
+
+
 #include <stdio.h>
 
 int bSort(int array[], int n) {

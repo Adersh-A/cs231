@@ -1,3 +1,10 @@
+/*
+ *Insertion sort
+ *Author:Adersh A
+ *Roll no:2
+*/ 
+
+
 #include <stdio.h>
 
 int inSort(int array[], int n) {

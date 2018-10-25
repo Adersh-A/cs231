@@ -1,3 +1,14 @@
+/*
+ *Merge sort
+ *Name:Adersh A
+ *Roll no:2
+*/ 
+
+
+
+
+
+
 #include<stdio.h>
  
 void msort(int a[],int i,int j);

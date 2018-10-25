@@ -1,3 +1,9 @@
+/*
+ *Selection sort
+ *Name:Adersh A
+ *Roll no:2
+*/ 
+
 #include <stdio.h>
 
 int selSort(int array[], int n) {

@@ -1,3 +1,10 @@
+/*
+ *Quick sort
+ *Name:Adersh A
+ *Roll no:2
+*/ 
+
+
 #include <stdio.h>
  
 void quick_sort(int[],int,int);

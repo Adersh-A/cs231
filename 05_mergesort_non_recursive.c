@@ -1,3 +1,9 @@
+/*
+ *merge sort - non recursive
+ *Name:Adersh A
+ *Roll no:2
+*/ 
+
 #include <stdio.h>
 
 void merge(int a[], int l, int m, int r) {

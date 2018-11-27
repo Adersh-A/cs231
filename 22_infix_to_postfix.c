@@ -1,3 +1,8 @@
+/*
+ *infix to postfix
+ *Name:Adersh A
+ *Roll no:2
+*/ 
 #include <stdio.h>
 
 int instackPriority(char symbol) {

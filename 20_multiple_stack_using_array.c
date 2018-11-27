@@ -1,3 +1,8 @@
+/*
+ *Multiple stack using array
+ *Name:Adersh A
+ *Roll no:2
+*/ 
 #include <stdio.h>
 #define size 100
 

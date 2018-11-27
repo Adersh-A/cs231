@@ -1,3 +1,9 @@
+/*
+ *quick sort-iterative
+ *Name:Adersh A
+ *Roll no:2
+*/ 
+
 #include <stdio.h>
 
 void swap(int *a, int *b) {

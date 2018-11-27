@@ -1,3 +1,9 @@
+/*
+ *circular queue using array
+ *Name:Adersh A
+ *Roll no:2
+*/ 
+
 #include <stdio.h>
 #define size 10
 int queue[size], front, rear;

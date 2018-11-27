@@ -1,5 +1,5 @@
 /*
- *singly linked list
+ *circular singly linked list
  *Name:Adersh A
  *Roll no:2
 */ 

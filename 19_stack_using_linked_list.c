@@ -1,3 +1,8 @@
+/*
+ *stack using linked list
+ *Name:Adersh A
+ *Roll no:2
+*/ 
 #include <stdio.h>
 #include <stdlib.h>
 
